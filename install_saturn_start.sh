@@ -3,7 +3,7 @@ echo "开始安装speedtest"
 sudo apt-get install curl
 curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash
 sudo apt-get install speedtest
-chho "开始安装ubuntu_docker"
+chho "开始安装ubuntu_docker..."
 sudo apt-get remove docker docker-engine docker.io containerd runc
 sudo apt-get update
 sudo apt-get install \
