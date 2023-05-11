@@ -79,6 +79,16 @@ var filAddressLocationMap = map[string]string{
         "f1byjtiuwi7kjt3wsda3mspc24mvatdp55adbwuqy": "santiago-132",
         "f1bwivkebqxnjhhxcsu3sdbljvo2nctnm2d7ueawa": "santiago-133",
         "f1ne2bbossqapb36ct23dqauqx73636usmlmwenby": "santiago-134",
+        "f14whyjseme3lea23llrkb7atpbsl5ouhiqyjnaza": "HL-02",
+        "f1nq3tpy3wconl4zi66wbzbtgl5rdhbz5ehl32qei": "HL-03",
+        "f13mva246baiicxdkepgs4jlg2ir74qqyxujycuca": "HL-04",
+        "f1aan76kpfdq4vn3vx6ccu53clqyrcgjl4rn4uwya": "HL-05",
+        "f1yo4zwwxifud474hqjtqs2tmjajfq5x7ofh4nida": "HL-06",
+        "f1xfpwurvmvt4lbhcm6mlprm7tz5jkk2z22dcyuzi": "HL-10",
+        "f12obaoelrh3szgsnd3cndhhqu3cfx25gu4lioa2a": "HL-11",
+        "f1fv6mlcermjveuknqlbticukgyiiu6prwuwclcvy": "HL-12",
+        "f1hjlinnku6jazowda2y2frcipyf7gtnvqcj6paia": "HL-13",
+        "f1pbgjumlm7qud5v654fqxzlz5k73qvzjg2p32gki": "HL-14",
 
 }
 
@@ -194,6 +204,17 @@ var filAddressLocationMap = map[string]string{
         "f1byjtiuwi7kjt3wsda3mspc24mvatdp55adbwuqy": "santiago-132",
         "f1bwivkebqxnjhhxcsu3sdbljvo2nctnm2d7ueawa": "santiago-133",
         "f1ne2bbossqapb36ct23dqauqx73636usmlmwenby": "santiago-134",
+        "f14whyjseme3lea23llrkb7atpbsl5ouhiqyjnaza": "HL-02",
+        "f1nq3tpy3wconl4zi66wbzbtgl5rdhbz5ehl32qei": "HL-03",
+        "f13mva246baiicxdkepgs4jlg2ir74qqyxujycuca": "HL-04",
+        "f1aan76kpfdq4vn3vx6ccu53clqyrcgjl4rn4uwya": "HL-05",
+        "f1yo4zwwxifud474hqjtqs2tmjajfq5x7ofh4nida": "HL-06",
+        "f1xfpwurvmvt4lbhcm6mlprm7tz5jkk2z22dcyuzi": "HL-10",
+        "f12obaoelrh3szgsnd3cndhhqu3cfx25gu4lioa2a": "HL-11",
+        "f1fv6mlcermjveuknqlbticukgyiiu6prwuwclcvy": "HL-12",
+        "f1hjlinnku6jazowda2y2frcipyf7gtnvqcj6paia": "HL-13",
+        "f1pbgjumlm7qud5v654fqxzlz5k73qvzjg2p32gki": "HL-14",
+    
 
 }
 
@@ -251,6 +272,16 @@ func main() {
                 "f1byjtiuwi7kjt3wsda3mspc24mvatdp55adbwuqy",
                 "f1bwivkebqxnjhhxcsu3sdbljvo2nctnm2d7ueawa",
                 "f1ne2bbossqapb36ct23dqauqx73636usmlmwenby",
+                "f14whyjseme3lea23llrkb7atpbsl5ouhiqyjnaza",
+                "f1nq3tpy3wconl4zi66wbzbtgl5rdhbz5ehl32qei",
+                "f13mva246baiicxdkepgs4jlg2ir74qqyxujycuca",
+                "f1aan76kpfdq4vn3vx6ccu53clqyrcgjl4rn4uwya",
+                "f1yo4zwwxifud474hqjtqs2tmjajfq5x7ofh4nida",
+                "f1xfpwurvmvt4lbhcm6mlprm7tz5jkk2z22dcyuzi",
+                "f12obaoelrh3szgsnd3cndhhqu3cfx25gu4lioa2a",
+                "f1fv6mlcermjveuknqlbticukgyiiu6prwuwclcvy",
+                "f1hjlinnku6jazowda2y2frcipyf7gtnvqcj6paia",
+                "f1pbgjumlm7qud5v654fqxzlz5k73qvzjg2p32gki",
 
                         
                 
@@ -375,6 +406,16 @@ func sumTotalFilAmount() {
                 "f1byjtiuwi7kjt3wsda3mspc24mvatdp55adbwuqy",
                 "f1bwivkebqxnjhhxcsu3sdbljvo2nctnm2d7ueawa",
                 "f1ne2bbossqapb36ct23dqauqx73636usmlmwenby",
+                "f14whyjseme3lea23llrkb7atpbsl5ouhiqyjnaza",
+                "f1nq3tpy3wconl4zi66wbzbtgl5rdhbz5ehl32qei",
+                "f13mva246baiicxdkepgs4jlg2ir74qqyxujycuca",
+                "f1aan76kpfdq4vn3vx6ccu53clqyrcgjl4rn4uwya",
+                "f1yo4zwwxifud474hqjtqs2tmjajfq5x7ofh4nida",
+                "f1xfpwurvmvt4lbhcm6mlprm7tz5jkk2z22dcyuzi",
+                "f12obaoelrh3szgsnd3cndhhqu3cfx25gu4lioa2a",
+                "f1fv6mlcermjveuknqlbticukgyiiu6prwuwclcvy",
+                "f1hjlinnku6jazowda2y2frcipyf7gtnvqcj6paia",
+                "f1pbgjumlm7qud5v654fqxzlz5k73qvzjg2p32gki",
 
         }
 
